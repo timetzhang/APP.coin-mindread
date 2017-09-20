@@ -1,0 +1,32 @@
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.exe
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.pdb
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csprojResolveAssemblyReference.cache
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.FormMain.resources
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.Properties.Resources.resources
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csproj.GenerateResource.Cache
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.exe
+E:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.pdb
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.exe
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.pdb
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.exe
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.pdb
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csprojResolveAssemblyReference.cache
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.FormMain.resources
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.Properties.Resources.resources
+Z:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csproj.GenerateResource.Cache
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.exe
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.pdb
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.exe
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.pdb
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csprojResolveAssemblyReference.cache
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.FormMain.resources
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.Properties.Resources.resources
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csproj.GenerateResource.Cache
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.exe
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\bin\Debug\CoinMindReader.pdb
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csprojResolveAssemblyReference.cache
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.FormMain.resources
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.Properties.Resources.resources
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.csproj.GenerateResource.Cache
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.exe
+D:\MyGit\SmartDevice\CoinMindReader\CoinMindReader\obj\Debug\CoinMindReader.pdb

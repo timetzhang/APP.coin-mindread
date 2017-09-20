@@ -1,0 +1,16 @@
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Release\CoinMindReader.exe
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\bin\Release\CoinMindReader.pdb
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.FormMain.resources
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.Properties.Resources.resources
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.csproj.GenerateResource.Cache
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.exe
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.pdb
+D:\My Projects\C# Projects\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.csprojResolveAssemblyReference.cache
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\bin\Release\CoinMindReader.exe
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\bin\Release\CoinMindReader.pdb
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.csprojResolveAssemblyReference.cache
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.FormMain.resources
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.Properties.Resources.resources
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.csproj.GenerateResource.Cache
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.exe
+D:\MyGit\Codea\codea.playground\CoinMindReader\CoinMindReader\obj\Release\CoinMindReader.pdb
